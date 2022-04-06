@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EduReact/static/css/main.22941023.css",
+    "main.js": "/EduReact/static/js/main.2f65e46b.js",
+    "index.html": "/EduReact/index.html",
+    "main.22941023.css.map": "/EduReact/static/css/main.22941023.css.map",
+    "main.2f65e46b.js.map": "/EduReact/static/js/main.2f65e46b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22941023.css",
+    "static/js/main.2f65e46b.js"
+  ]
+}
